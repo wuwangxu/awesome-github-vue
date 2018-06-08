@@ -78,7 +78,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue2-calendar](https://github.com/icai/vue2-calendar) ★236 - 支持lunar和日期事件的日期选择器 
 - [vue-dropzone](https://github.com/rowanwins/vue-dropzone) ★233 - 用于文件上传的Vue组件 
 - [vue2-douban-market](https://github.com/Awheat/vue2-douban-market) ★233 - 仿豆瓣市集webapp项目 
-- [vue-js-modal](https://github.com/euvl/vue-js-modal) ★228 - 移动友好的Vuejs2的modal 
+- ★ [vue-js-modal](https://github.com/euvl/vue-js-modal) ★228 - 移动友好的Vuejs2的modal 
 - [vue-slider](https://github.com/warpcgd/vue-slider) ★224 - vue 滑动组件 
 - [vue-datetime-picker](https://github.com/Haixing-Hu/vue-datetime-picker) ★224 - 日期时间选择控件 
 - [rubik](https://github.com/ccforward/rubik) ★217 - 基于Vuejs2的开源 UI 组件库 
