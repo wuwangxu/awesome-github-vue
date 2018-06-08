@@ -157,7 +157,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-formly](https://github.com/formly-js/vue-formly) ★51 - VueJS的JS表单 
 - [vue2-autocomplete](https://github.com/BosNaufal/vue2-autocomplete) ★51 - vue2的自动完成组件 
 - [vue-morris](https://github.com/bbonnin/vue-morris) ★50 - Vuejs组件封装Morrisjs库 
-- [veui](https://github.com/ecomfe/veui) ★50 - VueJS百度企业UI 
+- ★ [veui](https://github.com/ecomfe/veui) ★50 - VueJS百度企业UI 
 - [vue-components](https://github.com/yunfeihuang/vue-components) ★49 - 移动端UI组件库 
 - [vue-star-rating](https://github.com/craigh411/vue-star-rating) ★49 - 简单高度自定义的星星评级组件 
 - [vue-tagsinput](https://github.com/Ginhing/vue-tagsinput) ★48 - 基于VueJS的标签组件 
