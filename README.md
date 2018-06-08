@@ -20,7 +20,7 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [mint-ui](https://github.com/ElemeFE/mint-ui) ★6253 - Vue 2的移动UI元素 
 - [muse-ui](https://github.com/museui/muse-ui) ★3705 - 三端样式一致的响应式 UI 库 
 - [vue-material](https://github.com/marcosmoura/vue-material) ★3328 - 通过Vue Material和Vue 2建立精美的app应用 
-- [vuetify](https://github.com/vuetifyjs/vuetify) ★2925 - 为移动而生的Vue JS 2组件框架 
+★- [vuetify](https://github.com/vuetifyjs/vuetify) ★2925 - 为移动而生的Vue JS 2组件框架 
 - [Keen-UI](https://github.com/JosephusPaye/Keen-UI) ★2749 - 轻量级的基本UI组件合集 
 - [vonic](https://github.com/wangdahoo/vonic) ★1913 - 快速构建移动端单页应用 
 - [vue-multiselect](https://github.com/monterail/vue-multiselect) ★1539 - Vue.js选择框解决方案 
